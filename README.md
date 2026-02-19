@@ -1,8 +1,9 @@
 # EXPERIMENT-03-DEVELOPING-COUNTER-LADDER-LOGIC-FOR-PLC-
-## NAME:
-## REGISTER NUMBER:
-## DEPARTMENT:
-## YEAR:
+## NAME:CHANDRU P
+## REGISTER NUMBER:212223110007
+## DEPARTMENT:CSE(IOT)
+## YEAR:3rd
+## DATE:17-02-2026
 
 ### Aim:
 To understand and implement various counter operations in Programmable Logic Controller (PLC) ladder logic.
@@ -70,6 +71,22 @@ Test the counters with the physical push buttons and observe the LEDs or other o
 ##  UP COUNTER(CTU):
 <img width="1347" height="765" alt="Screenshot 2026-02-19 100516" src="https://github.com/user-attachments/assets/13ea352b-3b21-4467-b5c7-46efcdb1c4df" />
 <img width="1890" height="1031" alt="Screenshot 2026-02-19 100505" src="https://github.com/user-attachments/assets/0a1dc5aa-61bd-4cc7-b621-bbbf5254ef9d" />
+
+## DOWN COUNTER(CTD):
+
+<img width="1003" height="533" alt="Screenshot 2026-02-19 190738" src="https://github.com/user-attachments/assets/76adcb6a-6693-4318-aa2e-3785b5f3f60e" />
+<img width="1019" height="437" alt="Screenshot 2026-02-19 190748" src="https://github.com/user-attachments/assets/d7cc611f-3363-4fc3-b22c-a10c08d1e9a7" />
+
+<img width="1915" height="1032" alt="Screenshot 2026-02-19 190708" src="https://github.com/user-attachments/assets/63557e55-aab3-4c0e-b8b5-fc0cb786a139" />
+
+## UP DOWN(CTUD):
+<img width="1224" height="547" alt="Screenshot 2026-02-19 192045" src="https://github.com/user-attachments/assets/655e082a-0b72-46a6-822a-c30f379cfea8" />
+<img width="1219" height="496" alt="Screenshot 2026-02-19 192055" src="https://github.com/user-attachments/assets/56b4e193-9161-4895-a149-794492eb84f6" />
+<img width="1917" height="1033" alt="Screenshot 2026-02-19 191942" src="https://github.com/user-attachments/assets/c724a6d0-9e74-4b2d-a920-6c07da539deb" />
+
+<img width="1919" height="1032" alt="Screenshot 2026-02-19 192027" src="https://github.com/user-attachments/assets/ffcd5204-3000-4bfa-80a2-14e954aeb85f" />
+
+
 
 
 
